@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+pickle
+matplotlib
+re
+datetime
+os
